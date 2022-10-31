@@ -1,0 +1,13 @@
+[server]
+host = "0.0.0.0"
+port = 9999
+
+[mysql]
+host = "localhost"
+port = 3308
+username = "root"
+password = "123456"
+database = "my_chat"
+Charset = "utf8mb4"
+parseTime = true
+loc = "Local"
