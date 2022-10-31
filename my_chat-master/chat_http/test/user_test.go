@@ -14,7 +14,6 @@ func TestAddUser(t *testing.T) {
 		}
 		fmt.Println(*user)
 	}
-
 }
 
 func TestGetFriendRequest(t *testing.T) {
